@@ -1,5 +1,4 @@
 # OneMoreThing
 一个
-#--------------------------------------------------------
-# LICENSE(`MIT`)
-[License](https://github.com/juvham/OneMoreThing/blob/master/LICENSE "MIT")
+--------------------------------------------------------
+# [LICENSE(`MIT`)](https://github.com/juvham/OneMoreThing/blob/master/LICENSE "MIT License")
